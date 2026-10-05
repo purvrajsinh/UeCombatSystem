@@ -47,7 +47,9 @@ A modular and scalable **Combat System developed in Unreal Engine using C++**, f
 
 Watch the complete combat system demonstration:
 
-[YouTube – Combat System Demo](https://youtu.be/rorNnL_jyyk?utm_source=chatgpt.com)
+## 🎥 Demo
+
+[![Combat System Demo](https://img.youtube.com/vi/rorNnL_jyyk/maxresdefault.jpg)](https://youtu.be/rorNnL_jyyk)
 
 ## 📌 Project Goal
 
